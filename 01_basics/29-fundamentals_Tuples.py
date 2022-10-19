@@ -1,4 +1,4 @@
-###################  TUPLES   ###################
+###################  TRICKY COUNTER  ###################
 # Tuples are like immutable list 
 # --> syntax using parentheses insteadof squared bracket
 # As this is an immutable value it could be used as: a dictionary key

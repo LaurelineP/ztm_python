@@ -1,7 +1,7 @@
 
 # LESSONS RELATED FILES TO RUN
 #################### BASICS 2 ######################
-run="python 02_basics/06-fundamentals_iterables.py"
+# run="python 02_basics/06-fundamentals_iterables.py"
 # run="python 02_basics/05-fundamentals_for-loop.py"
 # run="python 02_basics/04-fundamentals_is-and-double-equals.py"
 # run="python 02_basics/03-fundamentals_ternary-operator.py"
@@ -45,6 +45,7 @@ run="python 02_basics/06-fundamentals_iterables.py"
 
 
 # EXERCISES RELATED FILES TO RUN
+run="python 00_exercises-and-practice/02-basics_02_tricky-counter.py"
 # run="python 00_exercises-and-practice/02-basics_01_logical-operators.py"
 # run="python 00_exercises-and-practice/01-basics_03_create-dictionary.py"
 # run="python 00_exercises-and-practice/01-basics_02_password-checker.py"
