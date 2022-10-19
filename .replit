@@ -1,0 +1,51 @@
+
+# LESSONS RELATED FILES TO RUN
+#################### BASICS 2 ######################
+run="python 02_basics/06-fundamentals_iterables.py"
+# run="python 02_basics/05-fundamentals_for-loop.py"
+# run="python 02_basics/04-fundamentals_is-and-double-equals.py"
+# run="python 02_basics/03-fundamentals_ternary-operator.py"
+# run="python 02_basics/02-fundamentals_falsy-and-truthy.py"
+# run="python 02_basics/01-fundamentals_conditional-logic.py"
+
+
+
+#################### BASICS 1 ######################
+
+# run="python 01_basics/30-fundamentals_Sets.py"
+# run="python 01_basics/29-fundamentals_Tuples.py"
+# run="python 01_basics/28-fundamentals_Dictionary-methods.py"
+# run="python 01_basics/27-fundamentals_know-when-to-use-lists-and-dictionaries.py"
+# run="python 01_basics/26-fundamentals_Dictionary-and-Dictionary-keys.py"
+# run="python 01_basics/25-fundamentals_data-types_None.py"
+# run="python 01_basics/24-fundamentals_List-unpacking.py"
+# run="python 01_basics/23-fundamentals_List-common-patterns.py"
+# run="python 01_basics/22-fundamentals_List-methods-3.py"
+# run="python 01_basics/21-fundamentals_List-methods-2.py"
+# run="python 01_basics/20-fundamentals_List-methods.py"
+# run="python 01_basics/19-fundamentals_matrix.py"
+# run="python 01_basics/18-fundamentals_data-types_Lists-slicing.py"
+# run="python 01_basics/17-fundamentals_data-types_Lists.py"
+# run="python 01_basics/16-fundamentals_02_comments.py"
+# run="python 01_basics/15-fundamentals_data-types_booleans.py"
+# run="python 01_basics/14-fundamentals_built-in-functions-and-methods.py"
+# run="python 01_basics/13-fundamentals_immutability.py"
+# run="python 01_basics/12-fundamentals_string-indexes.py"
+# run="python 01_basics/11-fundamentals_formatted-string.py"
+# run="python 01_basics/10-fundamentals_escape-sequences.py"
+# run="python 01_basics/09-fundamentals_data-types_strings.py"
+# run="python 01_basics/08-fundamentals_augmented-assigment-operators.py"
+# run="python 01_basics/07-fundamentals_expressions-and-statements.py"
+# run="python 01_basics/06-fundamentals_variables.py"
+# run="python 01_basics/05-fundamentals_data-types_bin-and-complex.py"
+# run="python 01_basics/04-fundamentals_operator-precedence.py"
+# run="python 01_basics/03-fundamentals_math-functions.py"
+# run="python 01_basics/02-fundamentals_data-types_numbers.py"
+# run="python 01_basics/01-discovering-python.py"
+
+
+# EXERCISES RELATED FILES TO RUN
+# run="python 00_exercises-and-practice/02-basics_01_logical-operators.py"
+# run="python 00_exercises-and-practice/01-basics_03_create-dictionary.py"
+# run="python 00_exercises-and-practice/01-basics_02_password-checker.py"
+# run="python 00_exercises-and-practice/01-basics_01_type-conversion.py"
