@@ -40,3 +40,17 @@ The Python interpretor considers spaces ( space or tab ) with meanings
 to interprete the code
 
 https://stackoverflow.com/questions/39983695/what-is-truthy-and-falsy-how-is-it-different-from-true-and-false
+
+# WHAT IS OOP?
+Object Oriented Programming is a 
+Every thing is an objects - Object have methods and attributes on their own
+We can create our own types
+
+OOP is a paradigm to structure the code in order to    
+ease to maintainability.
+Breaking up the code in smaller pieces (*in objects*) in order to have those objects enable to be worked on separately
+
+https://en.wikipedia.org/wiki/History_of_programming_languages
+
+## 
+Can create our own type using `class` keyword (Advanced/OOP)['./03_advanced-python_OOP/01_OOP.py']
