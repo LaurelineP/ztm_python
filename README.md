@@ -52,5 +52,14 @@ Breaking up the code in smaller pieces (*in objects*) in order to have those obj
 
 https://en.wikipedia.org/wiki/History_of_programming_languages
 
-## 
+## VOCABULARY WITH CLASS
+- instanciate: fact to associate a class to a variable
+
+## CUSTOM OBJECT / TYPE
 Can create our own type using `class` keyword (Advanced/OOP)['./03_advanced-python_OOP/01_OOP.py']
+### Under __init__
+Lines with self => will associate dynamic attributes
+
+### METHODS
+All functions defined within and starting with `def`
+are methods that will be available for all instance
