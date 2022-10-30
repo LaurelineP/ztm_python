@@ -63,3 +63,64 @@ Lines with self => will associate dynamic attributes
 ### METHODS
 All functions defined within and starting with `def`
 are methods that will be available for all instance
+
+### DECORATORS
+#### @classmethod 
+
+
+#### @static methods
+
+
+
+## FUNDAMENTAL
+Always test your assumptions: test what your learning
+
+
+## 4 PILLARS OF OOP
+### ENCAPSULATION
+4 OOP pillars
+- encapsulation: 
+It's a binding of data in functions that manipulates that data.
+We encapsulate in one big object
+Those data within and functions are what is called attributes and methods
+Represents the ability en encapsulating the functionality of a class X ( object ) by having its own properties and functionalities
+Those functions are able to access the data within this very same object ( self )
+
+#### Why wanting to encapsulate data ( attributes and function ) to an object ?
+In order to rely on the existing data and being able to reuse them any time needed
+A class without any functions ( just the attributes ) is useless as it only serve to store the data like a dictionary would
+would.
+The **only difference** with a dictionary it is how the dev accesses it 
+```py
+class Player:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+# Bracket notation accessing attribute "name" 's value
+player_class = Player('Majo', 1000 )
+print(player_class['name'])
+
+# Dot notation accessing key "name" 's value
+player_dict = { "name": "Majo", "age": 1000 }
+print(player_dict.name)
+```
+
+### ABSTRACTION
+Principle of hiding the full implementation of an object or function, for instance, in order to being able to use the provided attributes or methods ( from a class ) without caring how it is implemented.
+In Python there are no reserved keyword for privacy concept however there is a nomenclature.
+This nomenclature is to have _ ( an underscore ) before the variable or function or attributes ...
+
+### INHERITANCE
+Principle to inherit attributes and methods from another object and being able to exploit them within the defined object calling a class for instance.
+
+A class can also inherit from another class which 
+will provide the base definition with which one can
+compose from with new ones ( attributes and/or methods )
+
+### POLYMORPHISM
+The ability to redefine an attributes or methods 
+from the inherited object.
+- User class as a base class can have a method attack
+- A deviant class such as a specific kind of User like a character Wizard (class) can inherit from User but can also defined, in its encapsulation,
+it's own attack method --> this would override the User attack method 
