@@ -14,9 +14,9 @@ print('\n\t---------------------------------------------------')
 # For loop in application
 
 objective = input('\n\t What is your goal? ')
-for caracter in objective:
-  if caracter == " ":
+for character in objective:
+  if character == " ":
     print('\n')
   else:
-    print(f'\t "- caracter" is :{caracter}')
+    print(f'\t "- character" is :{character}')
   

@@ -32,13 +32,13 @@ is_key_in_dictionary = 'age' in dictionary_character
 is_key_in_dictionary_str = f"\"'age\' in dictionary'\" returns: \n\t\t\t ---> {is_key_in_dictionary}"
 print(f'\n\t\t - {is_key_in_dictionary_str}')
 
-# list of keys: dictionary.keys()
+# list of keys: dictionary.keys() ( getting all dictionary keys )
 list_of_key = dictionary_character.keys()
 list_of_key_str = f'"dictionary_character.keys()" returns:\n\t\t\t ---> {list_of_key}'
 print(f'\n\t\t - {list_of_key_str}')
 
 
-# list of values: dictionary.index()
+# list of values: dictionary.values() ( getting all dictionary values of each key )
 list_of_values = dictionary_character.values()
 list_of_values_str = f'"dictionary_character.values()" \n\t\t\treturns (to use with <value> in <dictionary>): \n\t\t\t ---> {list_of_values}'
 print(f'\n\t\t - {list_of_values_str}')
