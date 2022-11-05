@@ -41,7 +41,7 @@ to interprete the code
 
 https://stackoverflow.com/questions/39983695/what-is-truthy-and-falsy-how-is-it-different-from-true-and-false
 
-# WHAT IS OOP?
+# OOP
 Object Oriented Programming is a 
 Every thing is an objects - Object have methods and attributes on their own
 We can create our own types
@@ -124,3 +124,8 @@ from the inherited object.
 - User class as a base class can have a method attack
 - A deviant class such as a specific kind of User like a character Wizard (class) can inherit from User but can also defined, in its encapsulation,
 it's own attack method --> this would override the User attack method 
+
+
+# FP
+Functional programming
+- History of Functional Programming: https://en.wikipedia.org/wiki/History_of_programming_languages
