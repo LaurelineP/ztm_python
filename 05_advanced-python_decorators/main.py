@@ -58,10 +58,12 @@ def display_introduction():
 		------------------- REMINDER: PASSING FUNCTION TO A FUNCTION -------------------
 
 		🏗  Step 1: Defining function "execute_this_function_passed( func )"...''')
+
 		def execute_this_function_passed( func ):
 			func()
 		
 		print(f''' 	🏗  Step 2: Defining the function "say_hello()"...''')
+
 		def say_hello():
 			print('\t ---> Hello o o o o o 🙌')
 
