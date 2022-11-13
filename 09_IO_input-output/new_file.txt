@@ -1,0 +1,1 @@
+ 🔹 [ w ] Creating a file and writing into it  🔹 [ a ] Adding at the end of the file line
