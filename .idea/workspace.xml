@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="baaa6287-9557-4a2e-a9d7-a4dce3575f7b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/00_exercises-and-practice/10_password-validation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_regexp/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_regexp/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00_exercises-and-practice/11_password-validation_with-test/password_checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00_exercises-and-practice/11_password-validation_with-test/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_testing-in-python/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/11_testing-in-python/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_testing-in-python/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/11_testing-in-python/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
