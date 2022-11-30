@@ -20,15 +20,14 @@ class TestMain(unittest.TestCase):
 		# asserts expected value
 		self.assertEqual(result, 25)
 
-
 	def test_multiply_NOK(self):
-			test_x = 5
-			test_y = ''
+		test_x = 5
+		test_y = ''
 
-			result = main.multiply(test_x, test_y)
+		result = main.multiply(test_x, test_y)
 
-			# asserts expected error value
-			self.assertTrue( ValueError )
+		# asserts expected error value
+		self.assertTrue( ValueError )
 
 	def tearDown(self):
 		print('----[ TEARDOWN ] FUNCTION\n')
