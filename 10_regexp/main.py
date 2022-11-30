@@ -7,7 +7,7 @@ print('''
 	🔸 Are made to match patterns to identify its existence in a string
 		- package to import: import re
 
-		- re.compute(<STRING-PATTERN>):
+		- re.compile(<STRING-PATTERN>):
 			create a regular expression instance 
 
 		- <PATTERN>.match(<STRING>, [<START>, [<END>]]):

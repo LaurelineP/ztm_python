@@ -2,9 +2,17 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/08_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/12_scriping-with-python/01_processing-pictures" />
+      <excludeFolder url="file://$MODULE_DIR$/12_scriping-with-python/01_processing-imagess" />
+      <excludeFolder url="file://$MODULE_DIR$/12_scriping-with-python/01_processing-images" />
+      <excludeFolder url="file://$MODULE_DIR$/12_scriping-with-python/02_processing-pdf" />
+      <excludeFolder url="file://$MODULE_DIR$/00_exercises-and-practice/12_02_pdf-merger" />
+      <excludeFolder url="file://$MODULE_DIR$/12_scriping-with-python/03-emails" />
+      <excludeFolder url="file://$MODULE_DIR$/12_scriping-with-python/04_is-password-secured" />
+      <excludeFolder url="file://$MODULE_DIR$/12_scriping-with-python/05_tweetbot" />
+      <excludeFolder url="file://$MODULE_DIR$/12_scriping-with-python/06_sms" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.10 (ztm-python)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.10 (ztm-python) (7)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">

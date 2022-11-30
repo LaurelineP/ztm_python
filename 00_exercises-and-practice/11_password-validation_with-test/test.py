@@ -2,6 +2,8 @@ import unittest
 
 from password_checker import is_valid_password, request_password
 
+# Solution: https://repl.it/@aneagoie/Guessing-Game-2-1
+
 class TestIsPasswordValid(unittest.TestCase):
 
 	def test_string_of_8_digits(self):
