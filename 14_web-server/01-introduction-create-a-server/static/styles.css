@@ -1,0 +1,17 @@
+*, body {
+	margin: 50px 20px;
+	font-weight: 100;
+}
+header {
+	display: flex
+}
+
+header img {
+	height: 50px;
+	width: 50px;
+}
+
+header h1 {
+	line-height: 5;
+	margin: auto 0;
+}

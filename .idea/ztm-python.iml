@@ -11,8 +11,9 @@
       <excludeFolder url="file://$MODULE_DIR$/12_scriping-with-python/04_is-password-secured" />
       <excludeFolder url="file://$MODULE_DIR$/12_scriping-with-python/05_tweetbot" />
       <excludeFolder url="file://$MODULE_DIR$/12_scriping-with-python/06_sms" />
+      <excludeFolder url="file://$MODULE_DIR$/13_web-scrapping" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.10 (ztm-python) (7)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.10 (ztm-python) (8)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
