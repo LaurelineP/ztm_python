@@ -1,0 +1,9 @@
+
+		date: 2022-12-08 23:40:44.963376
+		uuid: 777be9f1-7cf4-4b10-b7f6-616202110c6d
+		email: l@gmail
+		subject: News
+		message :
+			How are you ?👺
+
+		
