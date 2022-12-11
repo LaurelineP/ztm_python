@@ -1,6 +1,6 @@
 ## HOW TO RUN THIS FOLDER
-### FOLDER 03-full-website-refacto
-- Set the terminal's location: `cd 14_web-server/03-full-website-refacto`
+### FOLDER 03-full-website-to-deploy
+- Set the terminal's location: `cd 14_web-server/04-full-website-to-deploy`
 - Run flask router/server: 
 	- if the main script is called `app.py`: `flask run` ( this is the case )
 	- if the main script is called `<smth>.py`: 
