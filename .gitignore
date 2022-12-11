@@ -3,3 +3,4 @@
 **/*.code-workspace
 __helping_others/
 .env
+*/*/__pycache__
