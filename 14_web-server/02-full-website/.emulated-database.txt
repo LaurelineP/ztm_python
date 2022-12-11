@@ -7,3 +7,435 @@
 			How are you ?👺
 
 		
+		date: 2022-12-09 21:33:08.747409
+		uuid: 73dda50b-638e-48fd-b91a-e6f3149c52d5
+		email: r@gmail.com
+		subject: Air
+		message :
+			Air 
+
+		
+		date: 2022-12-09 21:36:20.343008
+		uuid: fa1944fe-efc9-4c3f-a483-091d93bf5279
+		email: smth@plop.com
+		subject: sad
+		message :
+			Learning hello
+
+		
+		date: 2022-12-09 21:42:46.572893
+		uuid: 5043cd8d-f4e4-415f-ac0b-db20c9fb1ade
+		email: smth@plop.com
+		subject: sad
+		message :
+			Learning hello
+
+		
+		date: 2022-12-09 21:43:42.010147
+		uuid: a61bd028-d286-4991-804a-2afaef23fc6b
+		email: smth@plop.com
+		subject: sad
+		message :
+			Learning hello
+
+		
+		date: 2022-12-09 21:50:54.603271
+		uuid: 39737b36-9949-4d4a-a799-3848d499a730
+		email: smth@plop.com
+		subject: sad
+		message :
+			Learning hello
+
+		
+		date: 2022-12-09 21:52:29.770722
+		uuid: d4fde622-6543-473c-8784-9c1cf07bc581
+		email: smth@plop.com
+		subject: sad
+		message :
+			Learning hello
+
+		
+		date: 2022-12-09 21:57:19.991017
+		uuid: 860fb4df-e3da-47e8-abaa-9c129cd5407a
+		email: smth@plop.com
+		subject: sad
+		message :
+			Learning hello
+
+		
+		date: 2022-12-09 21:58:02.138862
+		uuid: be1e69f6-6b78-4820-ba36-bbb5bc60d2c0
+		email: smth@plop.com
+		subject: sad
+		message :
+			Learning hello
+
+		
+		date: 2022-12-09 22:05:50.621352
+		uuid: 53012592-796b-4d12-880d-202e40782704
+		email: smth@plop.com
+		subject: sad
+		message :
+			Learning hello
+
+		
+		date: 2022-12-09 22:08:33.648729
+		uuid: 3cb1f8da-95a1-4cdb-8109-642cce2f0c43
+		email: smth@plop.com
+		subject: sad
+		message :
+			Learning hello
+
+		
+		date: 2022-12-09 22:10:36.196209
+		uuid: a6bfa98c-b955-4f1d-829b-6aa8d687479c
+		email: smth@plop.com
+		subject: sad
+		message :
+			Learning hello
+
+		
+		date: 2022-12-09 22:12:19.478705
+		uuid: 405d2c46-b5fa-4269-8314-91e0661867e3
+		email: smth@plop.com
+		subject: sad
+		message :
+			Learning hello
+
+		
+		date: 2022-12-09 22:12:52.390099
+		uuid: 6255627d-0de8-4a79-8458-17ddc7507db2
+		email: smth@plop.com
+		subject: sad
+		message :
+			Learning hello
+
+		
+		date: 2022-12-09 22:12:57.951563
+		uuid: d97c18ea-1132-40af-aabd-de8e0eeb2450
+		email: smth@plop.com
+		subject: sad
+		message :
+			Learning hellodededed
+
+		
+		date: 2022-12-09 22:15:39.861159
+		uuid: 7a7103fd-1eee-4ef5-8f7f-5ec155c3ac37
+		email: smth@plop.com
+		subject: sad
+		message :
+			Learning hellodededed
+
+		
+		date: 2022-12-10 04:48:55.208155
+		uuid: 320d7170-1e97-4af0-879f-06f293b4f3ac
+		email: a@gmail.com
+		subject: Hello
+		message :
+			Hello there
+
+		
+		date: 2022-12-10 04:50:34.687117
+		uuid: 36d04d7f-95d0-4fad-8e14-d0eec51869b9
+		email: a@gmail.com
+		subject: Hello
+		message :
+			Hello there
+
+		
+		date: 2022-12-10 04:50:57.708444
+		uuid: d5caa222-5847-46de-a1a2-ced4059a59c9
+		email: b@gmail.com
+		subject: Anyone
+		message :
+			Hello there ?
+
+		
+		date: 2022-12-10 05:01:10.383976
+		uuid: dc5c71b7-3a88-4763-9771-126740e938a3
+		email: b@gmail.com
+		subject: Anyone
+		message :
+			Hello there ?
+
+		
+		date: 2022-12-10 05:02:07.065540
+		uuid: db7aa386-0333-4932-ae90-2efef311f62d
+		email: b@gmail.com
+		subject: Anyone
+		message :
+			Hello there ?
+
+		
+		date: 2022-12-10 05:06:28.881517
+		uuid: fdc470ef-156f-4ce4-8149-4c4ad5ff04ea
+		email: c@gmail
+		subject: Attempt
+		message :
+			Plop
+
+		
+		date: 2022-12-10 05:07:47.329197
+		uuid: a633419a-efa6-4fbb-ac58-01edd3110a0f
+		email: c@gmail
+		subject: Attempt
+		message :
+			Plop
+
+		
+		date: 2022-12-10 05:08:32.138506
+		uuid: 44cc427f-2713-4f76-9faf-e65768790cbb
+		email: c@gmail
+		subject: Attempt
+		message :
+			Plop
+
+		
+		date: 2022-12-10 15:49:16.505339
+		uuid: 92cd4d51-61de-45a4-a2b3-05aa82857216
+		email: smth@plop.com
+		subject: sad
+		message :
+			Learning hellodededed
+
+		
+		date: 2022-12-10 16:09:41.000820
+		uuid: 9f719658-da36-47f5-8744-45ddd8eddf22
+		email: d@gmail.com
+		subject: Dio
+		message :
+			Dio
+
+		
+		date: 2022-12-10 16:09:52.883476
+		uuid: 1d688c09-79e4-4dcc-9865-ea4708fe50c9
+		email: d@gmail.com
+		subject: Dio
+		message :
+			Gusto
+
+		
+		date: 2022-12-10 16:10:00.824723
+		uuid: 942d4308-2e0c-4271-99b8-6a7618b4d3bc
+		email: d@gmail.com
+		subject: Dio
+		message :
+			Pollo
+
+		
+		date: 2022-12-10 16:11:42.900561
+		uuid: d5c0352d-881c-43fa-bf89-c1a8eb0a5fcd
+		email: d@gmail.com
+		subject: Dio
+		message :
+			Pollo
+
+		
+		date: 2022-12-10 18:35:45.277158
+		uuid: 7322007b-ea28-47e8-a645-dd0b7793e7bb
+		email: d@gmail.com
+		subject: Dio
+		message :
+			Pollo
+
+		
+		date: 2022-12-10 18:58:56.858880
+		uuid: 9d6c3ed0-0a37-4b0a-ba2f-637ced0eaa64
+		email: d@gmail.com
+		subject: Dio
+		message :
+			Pollo
+
+		
+		date: 2022-12-10 18:59:41.298967
+		uuid: 0cb9c33a-ee69-436f-9bae-1f998b2b47cb
+		email: d@gmail.com
+		subject: Dio
+		message :
+			Pollo
+
+		
+		date: 2022-12-10 19:01:27.760689
+		uuid: 00a838f3-1203-4907-8f4b-cf79d26639da
+		email: d@gmail.com
+		subject: Dio
+		message :
+			Pollo
+
+		
+		date: 2022-12-10 19:02:28.784490
+		uuid: 5ed73a85-a37b-43b7-8f63-b8748fe19c36
+		email: d@gmail.com
+		subject: Dio
+		message :
+			Pollo
+
+		
+		date: 2022-12-10 19:02:40.448162
+		uuid: daf329ed-c92c-4413-b6bc-f43a3bcaccec
+		email: d@gmail.com
+		subject: Dio
+		message :
+			rrrr
+
+		
+		date: 2022-12-10 19:03:37.170968
+		uuid: 591af70a-3baa-4fef-9017-5a274c38c792
+		email: d@gmail.com
+		subject: Dio
+		message :
+			rrrr
+
+		
+		date: 2022-12-10 19:03:40.512792
+		uuid: 8d46de48-d803-4f8d-967c-66e8981d390e
+		email: d@gmail.com
+		subject: Dio
+		message :
+			rrrr
+
+		
+		date: 2022-12-10 19:05:48.146050
+		uuid: dc3d78f5-418c-49b9-bbb1-9c1ffdcb4c38
+		email: d@gmail.com
+		subject: Dio
+		message :
+			rrrr
+
+		
+		date: 2022-12-10 19:15:49.727360
+		uuid: a9c65044-310c-491e-809a-4360f9fc9df3
+		email: m@gmail.com
+		subject: Mail
+		message :
+			Mail test bis
+
+		
+		date: 2022-12-10 19:16:32.401543
+		uuid: a241a931-5528-42e8-8380-7ecc63aba15a
+		email: m@gmail.com
+		subject: Mail
+		message :
+			Mail test bis
+
+		
+		date: 2022-12-10 19:17:01.930177
+		uuid: 419a7c9b-62fa-4b89-b180-dbc781c4b8d1
+		email: m@gmail.com
+		subject: Mail
+		message :
+			Mail test bis
+
+		
+		date: 2022-12-10 19:17:23.213892
+		uuid: a9ebb91b-1c0d-4888-8550-e50a04e7bdc6
+		email: m@gmail.com
+		subject: Mail
+		message :
+			Mail test bis
+
+		
+		date: 2022-12-10 19:25:34.970298
+		uuid: 1ca0af99-54b2-4b2a-874e-e7ad8304d50e
+		email: c@gmail
+		subject: Attempt
+		message :
+			Plop
+
+		
+		date: 2022-12-10 19:25:37.596854
+		uuid: 577e4c48-4694-4f49-b449-e1f1b67c1268
+		email: b@gmail.com
+		subject: Anyone
+		message :
+			Hello there ?
+
+		
+		date: 2022-12-10 19:25:41.183790
+		uuid: be5840ee-3ea0-4693-bd44-e037d6394899
+		email: smth@plop.com
+		subject: sad
+		message :
+			Learning hellodededed
+
+		
+		date: 2022-12-10 19:47:16.432128
+		uuid: 5b9ddcf4-1070-4433-8ab9-05e0f2189aa0
+		email: smth@plop.com
+		subject: sad
+		message :
+			kkk hellodededed
+
+		
+		date: 2022-12-10 19:47:44.431962
+		uuid: edd1fe83-7ce5-4b74-b074-0fbb4d0e5453
+		email: smth@plop.com
+		subject: sad
+		message :
+			kkk hellodededed
+
+		
+		date: 2022-12-10 20:24:40.625118
+		uuid: f10e93eb-d933-4e17-9275-dd46fb9a9091
+		email: smth@plop.com
+		subject: sad
+		message :
+			kkk hellodededed
+
+		
+		date: 2022-12-10 20:25:06.550612
+		uuid: fb1cf321-07d4-43e1-a56c-5d71f8d417cc
+		email: a@mail.com
+		subject: Aloha
+		message :
+			Amazing
+
+		
+		date: 2022-12-10 20:26:02.983429
+		uuid: c0af6d3c-4e5f-48ac-bfc7-fe9e71fb0388
+		email: a@mail.com
+		subject: Aloha
+		message :
+			Amazing
+
+		
+		date: 2022-12-10 20:26:35.674786
+		uuid: d0a4b12f-4b44-415d-92b5-33109aa11cca
+		email: a@mail.com
+		subject: Aloha
+		message :
+			Amazing
+
+		
+		date: 2022-12-10 20:27:01.535022
+		uuid: 1a610361-3b8d-484d-9a7c-a791c9e1a654
+		email: b@mail.com
+		subject: Bonjour
+		message :
+			Bonjour la famille 😄
+
+		
+		date: 2022-12-10 20:28:30.130765
+		uuid: 3ee93439-15b3-488a-9710-cae0e69278dc
+		email: b@mail.com
+		subject: Bonjour
+		message :
+			Bonjour la famille 😄
+
+		
+		date: 2022-12-10 20:28:54.381065
+		uuid: 1cd38603-5dd6-4c48-a6e2-9e8c4c754124
+		email: b@mail.com
+		subject: Bonjour
+		message :
+			Bonjour la famille 😄
+
+		
+		date: 2022-12-10 20:30:57.421989
+		uuid: d34dfc35-8c98-4de5-a19a-20f06c6377ef
+		email: c@mail.com
+		subject: Cacao
+		message :
+			I'd like a cacao 🧋
+
+		
