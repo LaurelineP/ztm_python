@@ -12,8 +12,9 @@
       <excludeFolder url="file://$MODULE_DIR$/12_scriping-with-python/05_tweetbot" />
       <excludeFolder url="file://$MODULE_DIR$/12_scriping-with-python/06_sms" />
       <excludeFolder url="file://$MODULE_DIR$/13_web-scrapping" />
+      <excludeFolder url="file://$MODULE_DIR$/16-machine-learning/03-tenserflow" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.10 (ztm-python) (8)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.10 (ztm-python) (11)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
