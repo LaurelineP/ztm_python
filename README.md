@@ -16,43 +16,22 @@ run="python 01_basics/03-fundamentals_math-functions.py"
 run="python 01_basics/04-fundamentals_operator-precedence.py"
 ```
 
-
-
-## 🔹 Configure Replit
-### Enabling Replit to run a specific page
+## 🔹 Configure Replit & Enabling Replit to run a specific page
 - .replit file: either you replace run command opening by default a path  
   resource: https://replit.com/talk/ask/How-to-run-another-python-file-not-the-mainpy/29188
   WARNING: the .replit file approach does not last between session which mean each time you have to instruct replit to run the updated command
 - either you import your code to run with main ( mentioned in above URL )
 
-
 # 📌 DEVELOPER FUNDAMENTALS
 Don't read the dictionary: Do not read and learn everything about a  
 programming languages: know only what exists in order to get back to it  
 instead of memorizing it
-- syntax
-- variables : `=` used to assigned a value
-- data types:
-  - string - wrapped with double quotes or single quotes or formatted wit f''
-            to add dynamic values
-  - integer - aka numbers
-  - boolean - `True` or `False`
-  - List - aka array - wrapped by square brackets
-  - Tuples - defined List where we know the values should be the same
-  - Dictionnary - wrapped by curly braces composed by key/value pairs separated by comma
 
-- comments: single line comment or multi line comment or doc string: descriptive / documentary comments
-- condition: `if`, `elif`, `else` or ternaries `<value-if-yes> if <condition> else <value-if-no>`
-- functions: line starting wit `def` followed by the function name, followed by parentheses
-    that could have parameters ( variables placeholders to be used within its logic ) 
-- classes: blueprint allowing to be used later and instanciate a blueprint while assigning
-- decorators: function-like, starting with `@`
-- lambda functions: meant to execute quick logic ( JS - like anonymous arrow functions ) 
-[Stackoverflow - Difference from True and False](https://stackoverflow.com/questions/39983695/what-is-truthy-and-falsy-how-is-it-different-from-true-and-false)
+Always test your assumptions: test what your learning
 
 
 # 📌 INDENTATION IN PYTHON
-Identation and spaces are important with Python; turning it mandatory
+Identationa and spaces are important with Python; turning it mandatory
 whereas in other languages it is not and it is mainly related to enhance
 code readability
 The Python interpretor considers spaces ( spaces or tabs ) 
@@ -70,8 +49,35 @@ if True \
 ```
 
 
+# 📌 PYTHON FUNDAMENTALS
+- syntax
+- variables : `=` used to assigned a value
+- data types:
+  - string - wrapped with double quotes or single quotes or formatted wit f''
+            to add dynamic values
+  - integer - aka numbers
+  - boolean - `True` or `False`
+  - List - aka array - wrapped by square brackets
+  - Tuples - defined List where we know the values should be the same
+  - Dictionnary - wrapped by curly braces composed by key/value pairs separated by comma
 
-# 📌 OOP
+- comments: single line comment or multi line comment or doc string: descriptive / documentary comments
+- condition: `if`, `elif`, `else` or ternaries `<value-if-yes> if <condition> else <value-if-no>`
+- functions: line starting wit `def` followed by the function name, followed by parentheses
+    that could have parameters ( variables placeholders to be used within its logic ) 
+[Stackoverflow - Difference from True and False](https://stackoverflow.com/questions/39983695/what-is-truthy-and-falsy-how-is-it-different-from-true-and-false)
+
+# 📌 PYTHON - ADVANCED
+- classes: blueprint allowing to be used later and instanciate a blueprint while assigning
+- decorators: function-like, starting with `@`
+- lambda functions: meant to execute quick logic ( JS - like anonymous arrow functions ) 
+- pip: package manager - allows to install packages
+- virtual environment - allows you to specify a version of python ( enabling an interpreter )
+  and to install external packages / libraris
+- modules: folder or file dedicated to one task - providing functions for this tasks
+
+
+# 📌 OOP - OBJECT ORIENTED PROGRAMMING 
 **Object Oriented Programming** is a 
 Everything is an object - Object have methods and attributes on their own
 We can create our own types
@@ -82,32 +88,28 @@ Breaking up the code in smaller pieces (*in objects*) in order to have those obj
 
 https://en.wikipedia.org/wiki/History_of_programming_languages
 
-## VOCABULARY WITH CLASS
+## 🔹 VOCABULARY WITH CLASS
 - instanciate: fact to associate a class to a variable
 
-## CUSTOM OBJECT / TYPE
+## 🔹 CUSTOM OBJECT / TYPE
 Can create our own type using `class` keyword (Advanced/OOP)['./03_advanced-python_OOP/01_OOP.py']
 ### Under __init__
 Lines with self => will associate dynamic attributes
 
-### METHODS
-All functions defined within and starting with `def`
-are methods that will be available for all instance
+## 🔹 METHODS
+Functions defined within an object are methods
 
-### DECORATORS
+## 🔹 DECORATORS
+Kind of reusable function to use around a function: it wraps the function
+specified bellow
 #### @classmethod 
 
 
 #### @static methods
 
 
-
-## FUNDAMENTAL
-Always test your assumptions: test what your learning
-
-
-## 4 PILLARS OF OOP
-### ENCAPSULATION
+# 📌 4 PILLARS OF OOP
+## 🔹 ENCAPSULATION
 4 OOP pillars
 - encapsulation: 
 It's a binding of data in functions that manipulates that data.
@@ -136,19 +138,19 @@ player_dict = { "name": "Majo", "age": 1000 }
 print(player_dict.name)
 ```
 
-### ABSTRACTION
+## 🔹 ABSTRACTION
 Principle of hiding the full implementation of an object or function, for instance, in order to being able to use the provided attributes or methods ( from a class ) without caring how it is implemented.
 In Python there are no reserved keyword for privacy concept however there is a nomenclature.
 This nomenclature is to have _ ( an underscore ) before the variable or function or attributes ...
 
-### INHERITANCE
+### 🔹 INHERITANCE
 Principle to inherit attributes and methods from another object and being able to exploit them within the defined object calling a class for instance.
 
 A class can also inherit from another class which 
 will provide the base definition with which one can
 compose from with new ones ( attributes and/or methods )
 
-### POLYMORPHISM
+### 🔹 POLYMORPHISM
 The ability to redefine an attributes or methods 
 from the inherited object.
 - User class as a base class can have a method attack
@@ -156,6 +158,5 @@ from the inherited object.
 it's own attack method --> this would override the User attack method 
 
 
-# FP
-Functional programming
+# 📌 FP - FUNCTIONAL PROGRAMMING
 - History of Functional Programming: https://en.wikipedia.org/wiki/History_of_programming_languages
