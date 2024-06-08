@@ -49,7 +49,7 @@ if True \
 ```
 
 
-# 📌 PYTHON FUNDAMENTALS
+# 📌 PYTHON FUNDAMENTALS & ADVANCED
 - syntax
 - variables : `=` used to assigned a value
 - data types:
@@ -64,17 +64,68 @@ if True \
 - comments: single line comment or multi line comment or doc string: descriptive / documentary comments
 - condition: `if`, `elif`, `else` or ternaries `<value-if-yes> if <condition> else <value-if-no>`
 - functions: line starting wit `def` followed by the function name, followed by parentheses
-    that could have parameters ( variables placeholders to be used within its logic ) 
+    that could have parameters ( variables placeholders to be used within its logic )  
 [Stackoverflow - Difference from True and False](https://stackoverflow.com/questions/39983695/what-is-truthy-and-falsy-how-is-it-different-from-true-and-false)
-
-# 📌 PYTHON - ADVANCED
 - classes: blueprint allowing to be used later and instanciate a blueprint while assigning
 - decorators: function-like, starting with `@`
 - lambda functions: meant to execute quick logic ( JS - like anonymous arrow functions ) 
-- pip: package manager - allows to install packages
-- virtual environment - allows you to specify a version of python ( enabling an interpreter )
-  and to install external packages / libraris
+
+# 📌 PYTHON - ENVIRONMENTS / PROJECTS CONCEPTS
+When doing projects, we will also deal with the following  
+[ setup an environment, installing 
+- pip or pip3: python package manager - allows to install packages
 - modules: folder or file dedicated to one task - providing functions for this tasks
+- virtual environment ( venv ) - allows you to specify a version of python ( enabling an interpreter )
+  and to install external packages / libraries
+  - interpreters
+- requirements
+- poetry file
+
+## 🔹 PIP OR PIP3
+## 🔹 MODULES
+## 🔹 VIRTUAL ENVIRONMENT - VENV
+Virtual Environment encapsulate a whole isolated context,  
+we can control which version of python we would like to have,  
+we can install packages used for a project.
+
+Regarding the version of python used, this related to the matter of
+**the interpreter**.
+An interpreter is basically which python selected for x module or project.
+Once a venv is created we would need to use the python version of that context.
+
+### How to create a virtual environment
+1. init the virtual env (venv):
+  `python -m venv <name-of-virtual-env-folder>`
+2. activate the interpreter:
+  - `activate` to execute in terminal and project location should activate the interpreter
+  - ( mac terminal + bin ) otherwise it is doable by doing the following:    `source <name-of-virtual-env-folder>/bin/activate`
+  - ( win cmd + bin ) otherwise it is doable by doing the following:    `source <name-of-virtual-env-folder>/bin/activate.bat`
+  - ( win powershell + bin ) otherwise it is doable by doing the following:    `source <name-of-virtual-env-folder>/Scripts/Activate.ps1`
+3. deactivate the interpreter:
+   `deactivate` to execute in terminal and project location should activate the interpreter
+4. checking if this did work - list all installed packages
+`pip list` should return 2 packages: `pip` and `setuptools`
+
+## 🔹 REQUIREMENTS
+Requirements is a file describing what the project needs.  
+When installing tools - we must keep track of what is used,  
+so we execute a command in order to save the packages and  
+versions used.
+It allows to recreate the environment for anyone taking the project.
+
+### Save the project packages
+`pip freeze > requirements.txt`
+- `pip freeze`: with kind of take a snapshot of current needs
+- `>` indicates the output will be written in the following file
+- `requirements.txt`: tends to be the file non-mandatory naming convention
+  for the file keeping track of what it is needed
+
+### Install the project packages
+`pip install -r requirements.txt`
+
+
+## 🔹 POETRY FILE
+
 
 
 # 📌 OOP - OBJECT ORIENTED PROGRAMMING 
