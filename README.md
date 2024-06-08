@@ -1,4 +1,4 @@
-# REPLIT
+# 📌 REPLIT
 Replit is an interface running a rep with basics environment needs.
 This meeans this has the back environment of programming languages to  
 kick start some course straight away.  
@@ -8,7 +8,7 @@ as we do not have access that freely to the terminal
 
 Ex: command to run a file
 `python <path-file>.py`
-The environment mainly runs main.py  no other paths unless we provide config.
+The environment mainly runs `main.py`  no other paths unless we provide config.
 ```sh
 run="python 01_basics/01-fundamentals_discovering-python.py"
 run="python 01_basics/02-fundamentals_data-types-number.py"
@@ -18,7 +18,7 @@ run="python 01_basics/04-fundamentals_operator-precedence.py"
 
 
 
-## Configure Replit
+## 🔹 Configure Replit
 ### Enabling Replit to run a specific page
 - .replit file: either you replace run command opening by default a path  
   resource: https://replit.com/talk/ask/How-to-run-another-python-file-not-the-mainpy/29188
@@ -26,24 +26,54 @@ run="python 01_basics/04-fundamentals_operator-precedence.py"
 - either you import your code to run with main ( mentioned in above URL )
 
 
-# DEVELOPER FUNDAMENTALS
+# 📌 DEVELOPER FUNDAMENTALS
 Don't read the dictionary: Do not read and learn everything about a  
 programming languages: know only what exists in order to get back to it  
 instead of memorizing it
+- syntax
+- variables : `=` used to assigned a value
+- data types:
+  - string - wrapped with double quotes or single quotes or formatted wit f''
+            to add dynamic values
+  - integer - aka numbers
+  - boolean - `True` or `False`
+  - List - aka array - wrapped by square brackets
+  - Tuples - defined List where we know the values should be the same
+  - Dictionnary - wrapped by curly braces composed by key/value pairs separated by comma
+
+- comments: single line comment or multi line comment or doc string: descriptive / documentary comments
+- condition: `if`, `elif`, `else` or ternaries `<value-if-yes> if <condition> else <value-if-no>`
+- functions: line starting wit `def` followed by the function name, followed by parentheses
+    that could have parameters ( variables placeholders to be used within its logic ) 
+- classes: blueprint allowing to be used later and instanciate a blueprint while assigning
+- decorators: function-like, starting with `@`
+- lambda functions: meant to execute quick logic ( JS - like anonymous arrow functions ) 
+[Stackoverflow - Difference from True and False](https://stackoverflow.com/questions/39983695/what-is-truthy-and-falsy-how-is-it-different-from-true-and-false)
 
 
-# INDENTATION IN PYTHON
-Identation and spaces are important with Python turning it mandatory
-whereas in other languages it is not and is mainly relate to enhance
+# 📌 INDENTATION IN PYTHON
+Identation and spaces are important with Python; turning it mandatory
+whereas in other languages it is not and it is mainly related to enhance
 code readability
-The Python interpretor considers spaces ( space or tab ) with meanings
-to interprete the code
+The Python interpretor considers spaces ( spaces or tabs ) 
+with meanings and interprete the code or raise errors.
 
-https://stackoverflow.com/questions/39983695/what-is-truthy-and-falsy-how-is-it-different-from-true-and-false
+**Code separated in multilines**: 
+Where you will decide to split your code in another line,
+add `\` in the end.
 
-# OOP
-Object Oriented Programming is a 
-Every thing is an objects - Object have methods and attributes on their own
+```py
+my_string = 'Hello'
+if True \
+  and False:
+
+```
+
+
+
+# 📌 OOP
+**Object Oriented Programming** is a 
+Everything is an object - Object have methods and attributes on their own
 We can create our own types
 
 OOP is a paradigm to structure the code in order to    
