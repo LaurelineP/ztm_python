@@ -1,2 +1,7 @@
 # created by virtualenv automatically
 *
+!.gitignore
+
+# extra
+./lib
+./bin
